@@ -30,5 +30,5 @@ Registro de correcciones Actuales
 Entre otros muchos.
 
 PROBLEMAS ENCONTRADOS
--Probable dropeos de FPS (Avisenme si ocurre)
--No cargan los iconos de los items
+Probable dropeos de FPS (Avisenme si ocurre)
+No cargan los iconos de los items
