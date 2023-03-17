@@ -28,3 +28,10 @@ Registro de correcciones Actuales
 -La calidad de texturas emitidas es de una resolucion de 8192 (actualmente la maxima disponible)
 
 Entre otros muchos.
+
+================================================
+PROBLEMAS ENCONTRADOS
+-Probable dropeos de FPS (Avisenme si ocurre)
+-No cargan los iconos de los items
+================================================
+
