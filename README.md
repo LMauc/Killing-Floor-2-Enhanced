@@ -1,4 +1,4 @@
-# Killing-Floor-2-Enhanced
+# Killing Floor 2 Enhanced
 
 Killing Floor 2 Enhanced busca mejorar significativamente la calidad visual presente en Killing Floor 2, exprimiendo el motor grafico con el que actualmente cuenta, todo esto bajo la edición los archivos locales guardados del juego, en ingles "savegame".
 
@@ -26,9 +26,7 @@ Registro de correcciones Actuales
 -Se quita el limite de hilos a utilizar
 -Se aumenta la prioridad de CPU y GPU dentro del juego
 -La calidad de texturas emitidas es de una resolucion de 8192 (actualmente la maxima disponible)
-
-Entre otros muchos.
+-Entre otros muchos
 
 PROBLEMAS ENCONTRADOS
-Probable dropeos de FPS (Avisenme si ocurre)
 No cargan los iconos de los items
