@@ -15,6 +15,7 @@ Por cierto una de las cosas que algunos usuarios comentan que si tu cuentas con 
 SE REQUIERE QUE ESTOS ARCHIVOS SE COLOQUEN EN MODO LECTURA PARA QUE EL JUEGO NO SOBREESCRIBA DENTRO DE LOS MISMOS(EXCEPTUANDO LOS ARCHIVOS KFInput.ini Y KFWeb.ini)
 
 Registro de correcciones Actuales
+-Ya no mas FXAA, ahora TAA
 -Corrección de sensivilidad del mouse em Eje Y
 -Corrección de sensivilidad bajo Aspect Ratio
 -Eliminacion del Smoothing en Mouse
