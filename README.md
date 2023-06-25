@@ -30,4 +30,5 @@ Registro de correcciones Actuales
 -Entre otros muchos
 
 PROBLEMAS ENCONTRADOS
+(Solo StreamingTextures)
 No cargan los iconos de los items
