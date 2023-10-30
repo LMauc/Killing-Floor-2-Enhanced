@@ -1,34 +1,51 @@
 # Killing Floor 2 Enhanced
 
-Killing Floor 2 Enhanced busca mejorar significativamente la calidad visual presente en Killing Floor 2, exprimiendo el motor grafico con el que actualmente cuenta, todo esto bajo la edición los archivos locales guardados del juego, en ingles "savegame".
+## Description (English)
+Killing Floor 2 Enhanced seeks to significantly improve the visual quality present in Killing Floor 2, squeezing the graphics engine that currently has, all this under the edition of the local files of the game.
 
-Con esto tambien busca aumentar la cantidad de FPS y estabilizar el juego de manera notable, deshabilitando mips cargados o lod innecesario dentro del juego.
-Aparte de esto tambien corrige algunos pequeños errores, como la sensivilidad del mouse ajustado el campo de vision en su debida relacion de aspecto (ej: 16:9).
+It also seeks to increase the amount of FPS and stabilize the game in a remarkable way, correcting some bugs present and disabling really unnecessary things.
 
-Actualmente me encuentro volviendo a habilitar algunas opciones de StreamingTextures, debido a que en su momento las deshabilite para eliminar el popping dentro del juego, sin embargo, el juego carece de optimizaciones en ciertas partes de los mapas, lo que causa dropeos de fps fuertemente que afectan el rendimiento del equipo.
+## Descripción (Español)
+Killing Floor 2 Enhanced busca mejorar notablemente la calidad visual presente en Killing Floor 2, exprimiendo el motor gráfico que actualmente posee, todo esto bajo la edición de los archivos locales del juego.
 
-Por cierto una de las cosas que algunos usuarios comentan que si tu cuentas con mas cantidad de vram o una tarjeta grafica suficiente que soporte el juego deberian eliminar esos problemas, pero la verdad es que no los eliminan y causan demaciada inestabilidad.
+También busca aumentar la cantidad de FPS y estabilizar el juego de manera notable, corrigiendo algunos bugs presentes y desactivando cosas realmente innecesarias.
 
--Si tienes algun problema dentro del juego reportamelo para poder solucionarlo.
--Cualquier ayuda es bienvenida
+## Content (English)
+  - TextureStreaming Disabled (You can return to default)
+  - TextureStreaming Increased to 8192 (Max)
+  - Temporal Antialiasing (TAA)
+  - SmoothFrameRate Disabled
+  - MouseSmoothing Disabled
+  - ButtonRepeatDelay Disabled
+  - (AUDIO) MaxChannels Increased to 128
+  - (AUDIO) Compressed Disabled
+  - Corrected Y axis and X axis
+  - CompatLevel (Composite, CPU, GPU) Increased to 5
+  - Cores, Threads and GPUMemory Limits Disabled
+  - And other fixes
 
-SE REQUIERE QUE ESTOS ARCHIVOS SE COLOQUEN EN MODO LECTURA PARA QUE EL JUEGO NO SOBREESCRIBA DENTRO DE LOS MISMOS(EXCEPTUANDO LOS ARCHIVOS KFInput.ini Y KFWeb.ini)
+## Contenido (Español)
+  - TextureStreaming Deshabilitado (Puedes volver a defecto)
+  - TextureStreaming Incrementado a 8192 (Max)
+  - Temporal Antialiasing (TAA)
+  - SmoothFrameRate Deshabilitado
+  - MouseSmoothing Deshabilitado
+  - ButtonRepeatDelay Deshabilitado
+  - (AUDIO) MaxChannels Incrementado a 128
+  - (AUDIO) Compresión Deshabilitado
+  - Eje Y y Eje X Corregido
+  - CompatLevel (Composite, CPU, GPU) Increased to 5
+  - Limites de Nucleos, Hilos y GPUMemory Deshabilitados
+  - Y otras correcciones
 
-Registro de correcciones Actuales
--Ya no mas FXAA, ahora TAA
--Corrección de sensivilidad del mouse em Eje Y
--Corrección de sensivilidad bajo Aspect Ratio
--Eliminacion del Smoothing en Mouse
--Eliminación de retraso en click
--Se habilita la opcion NVIDIA PHYX para Tarjetas Graficas NVIDIA
--Aumento considerable de audio en base a canales emitidos dentro del juego (128)
--Se quita el limite de nucleos a utilizar
--Se quita el limite de la memoria dedicada a utilizar como tambien su margen
--Se quita el limite de hilos a utilizar
--Se aumenta la prioridad de CPU y GPU dentro del juego
--La calidad de texturas emitidas es de una resolucion de 8192 (actualmente la maxima disponible)
--Entre otros muchos
+## Support (English)
+  - IT IS REQUIRED THAT THE FILES ARE PLACED IN READ MODE SO THAT WHEN YOU START THE GAME, IT DOES NOT CHANGE SOME PARAMETERS.
+  - If you have problems with the Skins, omit placing KFInput.ini in read mode.
+  - If you have any problem inside the game report it to me so I can fix it.
+  - Any help is welcome.
 
-PROBLEMAS ENCONTRADOS
-(Solo StreamingTextures)
-No cargan los iconos de los items
+## Soporte (Español)
+  - ES NECESARIO QUE LOS ARCHIVOS SE COLOQUEN EN MODO LECTURA PARA QUE AL INICIAR EL JUEGO NO CAMBIE ALGUNOS PARÁMETROS.
+  - Si tienes problemas con los Skins, omite colocar KFInput.ini en modo lectura.
+  - Si tienes algun problema dentro del juego reportamelo para que pueda arreglarlo.
+  - Cualquier ayuda es bienvenida.
