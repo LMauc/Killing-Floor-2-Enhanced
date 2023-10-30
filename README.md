@@ -13,7 +13,7 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
 ## Content (English)
   - TextureStreaming Disabled (You can return to default)
   - TextureStreaming Increased to 8192 (Max)
-  - Temporal Antialiasing (TAA)
+  - Temporal Antialiasing (TAA) Enabled
   - SmoothFrameRate Disabled
   - MouseSmoothing Disabled
   - ButtonRepeatDelay Disabled
@@ -22,12 +22,13 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
   - Corrected Y axis and X axis
   - CompatLevel (Composite, CPU, GPU) Increased to 5
   - Cores, Threads and GPUMemory Limits Disabled
+  - AnimationCompression Disabled
   - And other fixes
 
 ## Contenido (Español)
   - TextureStreaming Deshabilitado (Puedes volver a defecto)
   - TextureStreaming Incrementado a 8192 (Max)
-  - Temporal Antialiasing (TAA)
+  - Temporal Antialiasing (TAA) Habilitado
   - SmoothFrameRate Deshabilitado
   - MouseSmoothing Deshabilitado
   - ButtonRepeatDelay Deshabilitado
@@ -36,6 +37,7 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
   - Eje Y y Eje X Corregido
   - CompatLevel (Composite, CPU, GPU) Increased to 5
   - Limites de Nucleos, Hilos y GPUMemory Deshabilitados
+  - AnimationCompression Deshabilitado
   - Y otras correcciones
 
 ## Support (English)
