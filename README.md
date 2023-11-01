@@ -35,7 +35,7 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
   - (AUDIO) MaxChannels Incrementado a 128
   - (AUDIO) Compresión Deshabilitado
   - Eje Y y Eje X Corregido
-  - CompatLevel (Composite, CPU, GPU) Increased to 5
+  - CompatLevel (Composite, CPU, GPU) Incrementado a 5
   - Limites de Nucleos, Hilos y GPUMemory Deshabilitados
   - AnimationCompression Deshabilitado
   - Y otras correcciones
