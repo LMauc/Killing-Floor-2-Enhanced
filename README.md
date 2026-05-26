@@ -12,7 +12,7 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
 
 ## Content (English)
   - TextureStreaming Disabled (You can return to default)
-  - TextureStreaming Increased to 8192 (Max)
+  - TextureStreaming Increased to 4096 (Limit imposed by the graphics engine)
   - Temporal Antialiasing (TAA) Enabled
   - SmoothFrameRate Disabled
   - MouseSmoothing Disabled
@@ -24,10 +24,11 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
   - Cores, Threads and GPUMemory Limits Disabled
   - AnimationCompression Disabled
   - And other fixes
+  NOTE: The 8192 limit has been removed, as this is an experimental setting and it is generally better to select the “DisableTextureStreaming” option.
 
 ## Contenido (Español)
   - TextureStreaming Deshabilitado (Puedes volver a defecto)
-  - TextureStreaming Incrementado a 8192 (Max)
+  - TextureStreaming Incrementado a 4096 (Límite impuesto por el motor gráfico)
   - Temporal Antialiasing (TAA) Habilitado
   - SmoothFrameRate Deshabilitado
   - MouseSmoothing Deshabilitado
@@ -39,6 +40,7 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
   - Limites de Nucleos, Hilos y GPUMemory Deshabilitados
   - AnimationCompression Deshabilitado
   - Y otras correcciones
+  NOTA: Se ha eliminado el límite de 8192, ya que se trata de una configuración experimental y, por lo general, es mejor seleccionar la opción «DisableTextureStreaming».
 
 ## Support (English)
   - IT IS REQUIRED THAT THE FILES ARE PLACED IN READ MODE SO THAT WHEN YOU START THE GAME, IT DOES NOT CHANGE SOME PARAMETERS.
