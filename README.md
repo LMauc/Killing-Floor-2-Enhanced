@@ -24,7 +24,7 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
   - Cores, Threads and GPUMemory Limits Disabled
   - AnimationCompression Disabled
   - And other fixes
-  NOTE: The 8192 limit has been removed, as this is an experimental setting and it is generally better to select the “DisableTextureStreaming” option.
+  - NOTE: The 8192 limit has been removed, as this is an experimental setting and it is generally better to select the “DisableTextureStreaming” option.
 
 ## Contenido (Español)
   - TextureStreaming Deshabilitado (Puedes volver a defecto)
@@ -40,7 +40,7 @@ También busca aumentar la cantidad de FPS y estabilizar el juego de manera nota
   - Limites de Nucleos, Hilos y GPUMemory Deshabilitados
   - AnimationCompression Deshabilitado
   - Y otras correcciones
-  NOTA: Se ha eliminado el límite de 8192, ya que se trata de una configuración experimental y, por lo general, es mejor seleccionar la opción «DisableTextureStreaming».
+  - NOTA: Se ha eliminado el límite de 8192, ya que se trata de una configuración experimental y, por lo general, es mejor seleccionar la opción «DisableTextureStreaming».
 
 ## Support (English)
   - IT IS REQUIRED THAT THE FILES ARE PLACED IN READ MODE SO THAT WHEN YOU START THE GAME, IT DOES NOT CHANGE SOME PARAMETERS.
